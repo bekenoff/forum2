@@ -1,0 +1,9 @@
+{
+    "Host": "localhost",
+    "Port": ":4000",
+    "DB": {
+        "Driver": "sqlite3",
+        "DSN": "./forum.db",
+        "Database": "./forum.db"
+    }
+}
